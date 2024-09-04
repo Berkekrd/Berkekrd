@@ -44,10 +44,6 @@ I’m a passionate software developer based in Bremen, Germany. With a backgroun
 
 ---
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Berkekrd&theme=radical)
-
 ## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkekrd&layout=compact&theme=radical)
