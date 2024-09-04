@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm Berke Karaduman!
 
-<!--
-**Berkekrd/Berkekrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate software developer based in Bremen, Germany. With a background in mechatronics and computer science, I specialize in web development, software engineering, and machine learning applications. Currently pursuing my Master's in Computer Science at Universität Bremen, I am eager to collaborate on innovative projects and contribute to open-source communities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 **Master of Science (M.Sc.)** in Computer Science from Universität Bremen (2023 - Present)
+- 🎓 **Bachelor of Science (B.Sc.)** in Mechatronic Systems Engineering from Turkish-German University (2015 - 2023)
+- 💻 Currently working as a **Software Developer (Werkstudent)** at Universität Bremen
+- 🔧 Experienced in **Web Development**, **Machine Learning**, and **Software Engineering**
+- 🌍 Proficient in German, Turkish, and working towards improving my English
+- 👨‍💻 Open to freelance work and exciting collaborative projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+### Databases:
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+### Tools & Platforms:
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berkekrd&show_icons=true&theme=radical)
+
+---
+
+## 🎯 Skills
+
+- **Programming Languages:** JavaScript, Python, C++, C#, Java, SQL
+- **Web Development:** React, Angular, HTML, CSS, REST APIs
+- **Software Development:** Unity, Flutter, Node.js, Django, Flask
+- **Data Science & Machine Learning:** TensorFlow, OpenCV, Convolutional Neural Networks
+- **Tools:** Docker, Git, LaTeX, Linux, Express.js
+
+---
+
+## 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkekaraduman)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Berkekrd)
+
+---
+
+## 🚀 Goals for 2024
+
+- Continue learning **Kubernetes** and **Rust**.
+- Contribute to more open-source projects.
+- Build and launch my own personal portfolio website.
+
+---
+
+## 📝 Latest Blog Posts
+
+- _Coming Soon!_
