@@ -21,16 +21,20 @@ I’m a passionate software developer based in Bremen, Germany. With a backgroun
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ### Databases:
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### Tools & Platforms:
 
@@ -40,9 +44,13 @@ I’m a passionate software developer based in Bremen, Germany. With a backgroun
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berkekrd&show_icons=true&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=Berkekrd&theme=radical)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkekrd&layout=compact&theme=radical)
 
 ---
 
@@ -62,15 +70,3 @@ I’m a passionate software developer based in Bremen, Germany. With a backgroun
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Berkekrd)
 
 ---
-
-## 🚀 Goals for 2024
-
-- Continue learning **Kubernetes** and **Rust**.
-- Contribute to more open-source projects.
-- Build and launch my own personal portfolio website.
-
----
-
-## 📝 Latest Blog Posts
-
-- _Coming Soon!_
