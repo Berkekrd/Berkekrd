@@ -46,12 +46,6 @@ I’m a passionate software developer based in Bremen, Germany. With a backgroun
 
 ---
 
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkekrd&layout=compact&theme=radical&cache_seconds=1800)
-
----
-
 ## 🎯 Skills
 
 - **Programming Languages:** JavaScript, Python, C++, C#, Java, SQL
